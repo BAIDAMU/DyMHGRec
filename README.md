@@ -23,6 +23,7 @@ The data and code for the DyMHGRec framework.
   - **drug-atc.csv**: this is a CID-ATC file, which gives the mapping from CID code to detailed ATC code . This file is obtained from https://github.com/hyh0606/ExpDrug.
   - **ndc2rxnorm_mapping.txt**: NDC to RXCUI mapping file. This file is obtained from https://github.com/hyh0606/ExpDrug.
   - **drug-DDI.csv**: this a large file, containing the drug DDI information, coded by CID. The file could be downloaded from https://drive.google.com/file/d/1mnPc0O0ztz0fkv3HF-dpmBb8PLWsEoDz/view?usp=sharing.
+    
   data/data_divided/: This contains a classification of the drugs in the training set, the evaluation set, and the test set (run processing.py).
   * eval_divided.pkl
   * test_divided.pkl
