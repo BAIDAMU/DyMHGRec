@@ -9,7 +9,7 @@ The data and code for the DyMHGRec framework.
   ``` python
   DDI: 0.0493 (0.0005) Ja: 0.6835 (0.0038) PRAUC: 0.8535 (0.0029) F1: 0.7866 (0.0029) 
   ```
-  ## Folder Specification
+## Folder Specification
   # Dataset 
   For the MIMIC-III dataset, we do not share the MIMIC-III dataset due to reasons of personal privacy, maintaining research standards, and legal considerations. Go to https://physionet.org/content/mimiciii/1.4/ to download the MIMIC-III dataset. We use the same data set and processing methods as ExpDrug (https://github.com/hyh0606/ExpDrug).
   * PRESCRIPTIONS.csv
@@ -33,7 +33,7 @@ The data and code for the DyMHGRec framework.
   ``` python
   python data/data_new/processing.py
   ```
-  ## Run
+## Run
   * Run DyMHGRec_main.py to reproduce the results of the paper.
   
   ```python
