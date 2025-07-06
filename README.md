@@ -27,16 +27,18 @@ The data and code for the DyMHGRec framework.
   * eval_divided.pkl
   * test_divided.pkl
   * train_divided.pkl
- Processing the data:
-
+  
+  Processing the data:
+  
   ``` python
   python data/data_new/processing.py
   ```
   ## Run
   * Run DyMHGRec_main.py to reproduce the results of the paper.
+  
   ```python
-cd src
-python DyMHGRec_main.py
-```
+  cd src
+  python DyMHGRec_main.py
+  ```
   
   
