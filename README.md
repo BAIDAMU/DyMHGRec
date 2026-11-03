@@ -1,5 +1,5 @@
 # DyMHGRec
-The data and code for the DyMHGRec framework.
+DyMHGRec: Multi-channel Hypergraph Neural Network Medication Recommendation Model based on Dynamic Perception. https://www.sciencedirect.com/science/article/pii/S0925231226029115. The data and code for the DyMHGRec framework.
 ## Requirements
 * PyTorch 3.8.0 and CUDA 11.1.
 * The learning rate of 5e-4 for 50 epochs.
